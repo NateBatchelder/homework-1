@@ -9,19 +9,20 @@ body {
 }
 
 .header {
+    /* this is the header section */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* should the following lines 19-26 be combined */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+.seo {
+    color: #869973;
 }
 
 .header div {
