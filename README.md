@@ -33,6 +33,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## Acknowledgments
 
 * Hat tip to the study group
-* The instructors
-* "Haters are my motivaters"
-work-1
+* The instructors for their paitentce and availability
