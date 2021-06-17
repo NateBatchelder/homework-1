@@ -15,7 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* should the following lines 19-26 be combined */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
